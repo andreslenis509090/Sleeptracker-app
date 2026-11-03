@@ -1,0 +1,6 @@
+{
+  "name": "SleepHygiene - Sistema de Monitoreo de Higiene del Sueño",
+  "description": "Sistema de monitoreo de higiene del sueño para registro, métricas semanales, alertas personalizadas y consola administrativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
